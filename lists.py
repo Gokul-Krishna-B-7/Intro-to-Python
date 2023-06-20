@@ -1,0 +1,17 @@
+names=["Jerry","Dev","Noel","Pannu","Peter","Maathan","Rohan"]
+print(names)
+print(names[0])
+print(names[1])
+print(names[2])
+print(names[3])
+print(names[4])
+print(names[5])
+print(names[-1])
+print(names[-2])
+print(names[-3])
+print(names[-4])
+print(names[-5])
+names[0]="Jerrin"
+print(names)
+print(names[2:4])
+print(names)
